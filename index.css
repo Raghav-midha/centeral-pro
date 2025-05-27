@@ -1,0 +1,27 @@
+/* Basic styling for a webpage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling a heading */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Adding style to a button */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
